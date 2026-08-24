@@ -39,35 +39,25 @@ Key variables include:
 
 The analysis investigates several important relationships:
 
-### 1. Rental Demand Over Time
-
-Bike rental demand generally increases over time, with higher and more variable rental levels in the later part of the dataset.
-
-### 2. Demand by Hour
+### 1. Demand by Hour
 
 Rental demand varies significantly throughout the day.
 
 The analysis shows higher demand during morning and evening commuting hours, while demand is generally lower during the night and early morning.
 
-### 3. Demand by Season
+### 2. Demand by Season
 
 Rental demand differs across seasons.
 
 **Season 3 (Fall)** has the highest average rental demand, while **Season 1 (Spring)** has the lowest.
 
-### 4. Demand by Weather
+### 3. Demand by Weather
 
 Weather conditions have a strong effect on bike rental demand.
 
 Clear weather has the highest rental demand, while heavier rain and storm conditions are associated with much lower demand.
 
-### 5. Temperature vs. Rental Demand
-
-The analysis shows a generally positive relationship between temperature and bike rental demand.
-
-As temperature increases, rental demand generally increases, although the relationship is not perfectly linear.
-
-### 6. Working Day vs. Non-Working Day
+### 4. Working Day vs. Non-Working Day
 
 Average rental demand is slightly higher on working days than on non-working days, suggesting that working-day status has a relatively small effect on overall demand.
 
@@ -79,7 +69,6 @@ Average rental demand is slightly higher on working days than on non-working day
 - Spring (Season 1) has the lowest average rental demand.
 - Clear weather conditions are associated with higher rental demand.
 - Rainy and stormy weather significantly reduces bike rentals.
-- Temperature generally has a positive relationship with rental demand.
 - Working days have only a small effect on overall average demand.
 
 ## 🛠️ Technologies Used
